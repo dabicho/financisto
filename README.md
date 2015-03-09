@@ -1,3 +1,8 @@
+THIS IS A FORK FROM THE FINANCE ANDROID APPLICATION FINANCISTO.  
+Reason for me forking it, I want to do something with it as I intend to move away from my current choice for finance app as it seems to be stagnant and when I used financisto I didn't get a good handle of it and found it missing some features, like some reports.
+Following the original readme from the time I forked.
+-----------------------------------------------------
+
 **! Please note that the branch is currently UNSTABLE due to migrating to Holo !**
 
 # Financisto
